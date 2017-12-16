@@ -1,0 +1,39 @@
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T20:05:06.888Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T20:09:47.535Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:17:25.445Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:17:25.460Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:18:07.126Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:18:07.143Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-10-09T21:18:11.946Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:18:58.108Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:18:58.350Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:28:06.409Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:28:06.650Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:31:00.508Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:31:00.522Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:35:12.324Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:35:12.558Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:41:54.788Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:41:55.030Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:45:26.594Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:45:26.844Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:50:45.568Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:50:45.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-10-09T21:51:26.207Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-10-09T21:51:26.245Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:51:41.697Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:51:41.713Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:54:36.373Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T21:54:36.391Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T21:55:00.155Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T21:55:00.338Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T22:22:27.282Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-09T22:22:27.296Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T22:22:38.488Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T22:22:38.653Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T22:23:43.873Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T22:23:44.117Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T22:27:18.301Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T22:27:18.366Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-09T22:28:53.794Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-09T22:28:53.862Z"}

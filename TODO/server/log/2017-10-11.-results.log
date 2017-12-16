@@ -1,0 +1,4 @@
+{"level":"info","message":"Starting application","timestamp":"2017-10-11T00:49:01.101Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000 developmentlocalhost;5000","timestamp":"2017-10-11T00:49:01.117Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-10-11T00:49:16.764Z"}
+{"level":"info","message":"HTTP Server listening on port: 4000 testlocalhost;4000","timestamp":"2017-10-11T00:49:16.937Z"}
