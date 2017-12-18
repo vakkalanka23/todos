@@ -12,3 +12,23 @@
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-16T22:26:31.564Z"}
 {"level":"verbose","message":"Create user","timestamp":"2017-12-16T22:26:31.566Z"}
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-16T22:26:42.617Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:05:30.200Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-16T23:05:30.205Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:05:39.799Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:05:40.048Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-16T23:05:40.049Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:06:37.226Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-16T23:06:37.227Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:06:37.356Z"}
+{"level":"verbose","message":"Upload file for todo 5a35a6fdb50bf21bec33c373 and 5a35a6bab50bf21bec33c372","timestamp":"2017-12-16T23:06:37.446Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:06:42.488Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-16T23:06:42.489Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:06:45.026Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:06:51.617Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a35a6fdb50bf21bec33c373","timestamp":"2017-12-16T23:06:51.622Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:08:06.769Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a35a6fdb50bf21bec33c373","timestamp":"2017-12-16T23:08:06.774Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:08:12.994Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a35a6fdb50bf21bec33c373","timestamp":"2017-12-16T23:08:12.996Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-16T23:08:17.021Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a35a6fdb50bf21bec33c373","timestamp":"2017-12-16T23:08:17.022Z"}

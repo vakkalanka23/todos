@@ -1,10 +1,10 @@
 <template>
-        <!-- <br> -->
-      <h2 style="color: black; text-align:center; background-color:#6698FF"><b>ToDos List</b></h2>  
+        
+      <h2> <b> My ToDos List</b></h2>  
       <br>
-      <div class="container">
+      
              <div class="card topMargin">
-                    <div class="card-body">
+                    
                         <div class="row">
                              <span class="col">
                                 <div class="form-check">
@@ -24,11 +24,11 @@
                     <table class="table">
                             <thead>
                                 <tr>
-                                    <th bgcolor="#6698FF", style="text-align:center">ToDo</th>
-                                    <th bgcolor="#6698FF", style="text-align:center">Due Date</th>
-                                     <th bgcolor="#6698FF", style="text-align:center">Priority</th>
-                                    <th bgcolor="#6698FF", style="text-align:center">File</th>
-                                    <th bgcolor="#6698FF", style="text-align:center">Edit</th>
+                                    <th style="text-align:center">ToDo</th>
+                                    <th style="text-align:center">Due Date</th>
+                                    <th style="text-align:center">Priority</th>
+                                    <th style="text-align:center">File</th>
+                                    <th style="text-align:center">Edit</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -36,7 +36,7 @@
                                             <td style="text-align:center">${todo.todo}</td>
                                             <td style="text-align:center">${todo.datedue | dateFormat}</td>
                                             <td style="text-align:center">${todo.priority}</td>
-                                            <td style="text-align:center"><a href="http://localhost:5000/uploads/${user._id}/${todo.file.fileName}" target="_blank">${todo.file.originalName}</a></td>
+                                            <td style="text-align:center"><a href="uploads/${user._id}/${todo.file.fileName}" target="_blank">${todo.file.originalName}</a></td>
                                             <td style="text-align:center">
                                             <i click.trigger="editTodo(todo)" class="fa fa-pencil rightMargin" aria-hidden="true"></i>
                                             <i click.trigger="deleteTodo(todo)" class="fa fa-trash rightMargin" aria-hidden="true"></i>
@@ -52,8 +52,8 @@
                             <br><br>
                             <h2 style="text-align:center;">Apparently, you don't have anything to do!!</h2>
                         </div>
-                    </div>
+                   
                 </div>
-            </div>
+            
             </template>
         
